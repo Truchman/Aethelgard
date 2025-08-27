@@ -1,7 +1,10 @@
 # Entity: Building
 
 ## Description
-Buildings are structures placed on the [flying island's](./Island.md) tile grid. They are the heart of the village, enabling resource production, crafting, housing for [characters](./Character.md), and progression.
+Buildings are structures placed on the [flying island's](../Island.md) tile grid. They are the heart of the village, enabling resource production, crafting, housing for [characters](../Character.md), and progression.
+
+## Visual Concept
+![Concept Art for a generic Building](./Building.jpg)
 
 ## Core Concepts
 - **Building Footprint**: Each building occupies a specific number of tiles (e.g., 2x2, 3x3), requiring strategic placement.

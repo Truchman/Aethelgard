@@ -3,6 +3,9 @@
 ## Description
 The Forge is a crafting station where raw ores and other materials are smelted into ingots and then forged into [Equipment](../Equipment.md).
 
+## Visual Concept
+![Concept Art for the Forge](./Forge.jpg)
+
 ## Core Attributes
 - **Footprint**: 3x3 Tiles
 - **Requires**: 1 [Character](../Character.md) with the Blacksmith role.

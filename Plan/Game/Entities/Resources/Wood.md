@@ -1,16 +1,15 @@
-# Entity: WoodLog
+# Resource: Wood
 
 ## Description
-A log of wood that can be collected by the player. It's a [resource](./Resource.md) item.
+A primary resource gathered by Woodcutters. It is used as a basic building material and as fuel for crafting stations like the [Forge](../Buildings/Forge.md).
+
+## Visual Concept
+![Concept Art for Wood](../Wood.jpg)
 
 ## Associated Concepts
-- **Collection**: Can be gathered by [characters](./Character.md) with the Lumberjack role.
+- **Gathering**: Collected by [Characters](../Character.md) with the **Woodcutter** [role](../../Gameplay/Roles.md).
+- **Usage**: A key ingredient in construction and crafting recipes.
 
 ## Related Systems
-- [Village Management](../Village/Systems/VillageManagement.md)
-
-## Technical Concepts
-- **Components**:
-  - **TransformComponent**: Manages the log's position, rotation, and scale.
-  - **SpriteComponent**: Manages the visual representation of the log.
-  - **ResourceComponent**: Defines the log as a resource that can be collected.
+- [Village Management](../../Systems/VillageManagement.md)
+- [Crafting](../../Systems/Crafting.md)

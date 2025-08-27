@@ -3,6 +3,9 @@
 ## Description
 The Alchemy Lab is a crafting station where [Ingredients](../Ingredient.md) are combined to create potions, pills, and other magical concoctions.
 
+## Visual Concept
+![Concept Art for the Alchemy Lab](./Alchemy Lab.jpg)
+
 ## Core Attributes
 - **Footprint**: 2x2 Tiles
 - **Requires**: 1 [Character](../Character.md) with the Alchemist role.

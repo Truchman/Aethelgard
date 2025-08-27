@@ -3,6 +3,9 @@
 ## Description
 Characters are the inhabitants of the player's [flying island](./Island.md). While the player doesn't control them directly like an RPG, they are managed by assigning roles, scheduling tasks, and tending to their needs. Each character is unique, with distinct traits and skills.
 
+## Visual Concept
+![Concept Art for a Character](./Character.jpg)
+
 ## Core Attributes
 - **Health**: Their physical well-being. Decreases from hazards during expeditions.
 - **Stamina**: Their energy for performing tasks. Depletes over the workday and is restored by resting.
