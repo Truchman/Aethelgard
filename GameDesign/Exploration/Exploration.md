@@ -1,3 +1,0 @@
-# 4. L'Exploration : Un Univers de Possibilités
-
-L'exploration est un pilier de la progression à long terme. L'île volante peut se déplacer dans un vaste "vide" parsemé d'"opportunités disséminées", à savoir d'autres territoires ou îles contenant des ressources rares et des donjons. Le joueur peut envoyer une escouade de personnages explorer d'autres îles pour trouver des ressources. Une fois l'exploration terminée, le joueur a le choix de "garder l'île" pour bénéficier de "créations de ressources passives" permanentes ou de la "relâcher" pour libérer de l'espace. La capacité à capturer et à lier de nouvelles îles à l'empire du joueur est la principale mécanique de progression à long terme.
