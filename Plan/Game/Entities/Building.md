@@ -1,7 +1,7 @@
 # Entity: Building
 
 ## Description
-Structures built on the [flying island](./Island.md) that are associated with specific [character](./Character.md) roles and [resource](./Resource.md) production.
+Structures built on the [flying island](./Island.md) that are associated with specific [character](./Character.md) roles and [resource](./Resources/Resource.md) production.
 
 ## Associated Concepts
 - **Building Types**:

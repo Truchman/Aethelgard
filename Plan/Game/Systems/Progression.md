@@ -13,4 +13,4 @@ The game features a progression system based on "tiers" rather than traditional 
 ## Related Entities
 - [Character](../Entities/Character.md)
 - [Building](../Entities/Building.md)
-- [Resource](../Entities/Resource.md) (Energy)
+- [Resource](../Entities/Resources/Resource.md) (Energy)

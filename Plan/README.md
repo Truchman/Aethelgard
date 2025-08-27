@@ -18,7 +18,7 @@ These documents describe the core objects and items that exist within the game w
 - **[Territory](./Game/Entities/Territory.md)**: Explorable locations that provide resources.
 - **[Building](./Game/Entities/Building.md)**: Structures that enable production and new game mechanics.
 - **[Equipment](./Game/Entities/Equipment.md)**: Procedurally generated items crafted by the player.
-- **[Resource](./Game/Entities/Resource.md)**: Materials used for crafting, building, and progression.
+- **[Resource](./Game/Entities/Resources/Resource.md)**: Materials used for crafting, building, and progression.
 - **[Ingredient](./Game/Entities/Ingredient.md)**: Components used in Alchemy and Smithing.
 - **[WoodLog](./Game/Entities/WoodLog.md)**: A basic collectible resource.
 

@@ -5,7 +5,7 @@ Allows the creation of [equipment](../Crafting/Entities/Equipment.md) and consum
 
 ## Associated Concepts
 - **Alchemy**: Combines [ingredients](../Entities/Ingredient.md) ("active principles") to create pills and potentially an infinite variety of plants.
-- **Smithing**: Uses [resources](../Entities/Resource.md) and unique [ingredients](../Entities/Ingredient.md) to create equipment with procedural stats.
+- **Smithing**: Uses [resources](../Entities/Resources/Resource.md) and unique [ingredients](../Entities/Ingredient.md) to create equipment with procedural stats.
 
 ## Related Entities
 - [Equipment](../Crafting/Entities/Equipment.md)
