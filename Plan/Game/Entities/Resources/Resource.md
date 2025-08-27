@@ -11,5 +11,5 @@ Materials produced by [buildings](../Village/Entities/Building.md) and [characte
   - **Special**: Energy (for progression).
 
 ## Related Systems
-- [Village Management](../Systems/VillageManagement.md)
-- [Crafting](../Systems/Crafting.md)
+- [Village Management](../../Systems/VillageManagement.md)
+- [Crafting](../../Systems/Crafting.md)

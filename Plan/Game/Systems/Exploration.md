@@ -11,7 +11,5 @@ A pillar of long-term progression, allowing the player to discover and exploit n
 
 ## Related Entities
 - [Flying Island](../Entities/Island.md)
-- [Territory](../Entities/Territory.md)
-
-## Related Documents
+- [Territory](../Entities/Territory.md)lated Documents
 - [Exploration](../../GameDesign/Exploration/Exploration.md)

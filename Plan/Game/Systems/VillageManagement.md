@@ -33,9 +33,8 @@ The core of the game is managing [Characters](../Entities/Character.md) indirect
 ## Related Entities
 - [Flying Island](../Entities/Island.md)
 - [Character](../Entities/Character.md)
-- [Building](../Entities/Building.md)
-e resources |
-| Alchemist | Alchemy Lab | Pills, Active Principles | Requires exploration resources for the creation of pills |
+- [Building](../Entities/Buildings/Building.md)
+ist | Alchemy Lab | Pills, Active Principles | Requires exploration resources for the creation of pills |
 
 ## Related Systems
 - [Village Management](../../Game/Village/Systems/VillageManagement.md)

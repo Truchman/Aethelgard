@@ -20,5 +20,5 @@ Detailed information on each building can be found in the [Buildings](./Building
 - **Progression**: Facilitate character and village advancement (e.g., Energy Obelisk).
 
 ## Related Systems
-- [Village Management](../Systems/VillageManagement.md)
-- [Crafting](../Systems/Crafting.md)
+- [Village Management](../../Systems/VillageManagement.md)
+- [Crafting](../../Systems/Crafting.md)

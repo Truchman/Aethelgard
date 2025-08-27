@@ -9,7 +9,7 @@ The player's main flying island, serving as a central hub and base of operations
 
 ## City-Builder Mechanics
 - **Tile-Based Grid**: The surface of the island is a grid of tiles where the player can place structures. This forms the core of the city-building gameplay.
-- **Strategic Placement**: Players must strategically place [buildings](./Building.md) to optimize space and production chains.
+- **Strategic Placement**: Players must strategically place [buildings](./Buildings/Building.md) to optimize space and production chains.
 - **Specialized Tiles**: Certain tiles may have unique properties, such as innate fertility for farming or resource deposits for mining, influencing building placement.
 
 ## Related Systems
